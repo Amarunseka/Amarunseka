@@ -1,4 +1,4 @@
-![Header](https://github.com/Amarunseka/Amarunseka/blob/main/assets/codeInageToGitHub.psd)
+![Header](https://github.com/Amarunseka/Amarunseka/blob/main/assets/codeInageToGitHub2.png)
 
 ## Hello! My name is Michael Komissarov.
 ## I'm a begginer iOS Developer
